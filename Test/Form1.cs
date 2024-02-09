@@ -24,7 +24,7 @@ namespace Test
             label5.Text = "Meltdown Imminent";
             Refresh();
             Thread.Sleep(1000);
-            label3.BackColor = Color.White;
+            label3.BackColor = Color.White; //
             label4.BackColor = Color.White;
             Refresh();
             Thread.Sleep(1000);
